@@ -47,6 +47,9 @@ Make sure you have the following installed on your computer:
 
 Here’s a preview of the app:
 
+![App Screenshot](public/assets/screenshot.png)
+
+
 
 
 ---
